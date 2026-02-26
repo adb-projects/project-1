@@ -1,0 +1,8 @@
+[{
+    "patient": {"id": "P123a", "name": "test", "dob": "20260221"},
+    "assessment": {
+    "type": "behavioral_screening",
+    "scores": {"anxiety": 7, "social": 4, "attention": 6},
+    "notes": "This is a note"
+    }
+}]
